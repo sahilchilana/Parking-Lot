@@ -1,0 +1,15 @@
+create_parking_lot 6
+
+park abc-xyz yellow
+park xyz-chd white
+park klm-xyz black
+park chd-dl red
+park lmn-xyz grey
+park def-xyz white
+status
+leave 5
+status
+registration_numbers_for_cars_with_colour white
+slot_number_for_registration_number klm-xyz
+slot_number_for_registration_number abc-lmn
+exit
