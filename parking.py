@@ -48,7 +48,7 @@ class Parking():
         except Exception as e :
             raise Exception("Slot no should be of type int")
 
-        if (slot_no-1) >= len(self._slots_) :
+        if (slot_no) >= len(self._slots_) :
             raise Exception("Invalid slot no")
 
         
