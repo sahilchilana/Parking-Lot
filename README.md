@@ -9,7 +9,7 @@ Code for creating a simple parking lot
 6. Commands for running from command line  
     * create_parking_lot number  : creates a parking lot of specified number  
     * park reg_no color : parks the car in the nearest slot
-    * leave slot_no : removes the car from the slot no provided
+    * leave slot_no number : removes the car from the slot no provided
     * status  : gives the status of the parking lot
     * registration_numbers_for_cars_with_colour color : gets the registration number corresponding to the color of the car
     * slot_number_for_registration_number reg_no : gets the slot number for the car with the registration number provided
